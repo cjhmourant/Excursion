@@ -1,0 +1,18 @@
+html {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.content{
+    text-align: center;
+}
+
+h1{
+    color: white;
+    font-weight: normal;
+}
+
+h2{
+    color: gray;
+    font-weight: 30;
+}
